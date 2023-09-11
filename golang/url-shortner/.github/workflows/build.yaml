@@ -1,5 +1,4 @@
-name: Build and Push Docker Image to Dokcer Hub
-
+name: Build and Push Docker Image to Docker Hub
 on:
   push:
     branches:
