@@ -35,6 +35,7 @@ go test -v ./...
 - Decorator Pattern
 - Simplified Hexagonal Architeture
 - Docker
+- CI/CD with a basic k8s configuration
 
 #### Topics to apply
 - Add redis
