@@ -1,0 +1,3 @@
+[submodule "golang/go-cep"]
+	path = golang/go-cep
+	url = https://github.com/ismael3s/go-cep
